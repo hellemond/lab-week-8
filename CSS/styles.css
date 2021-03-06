@@ -20,6 +20,10 @@ ul.mainnav {
     list-style-type: none;
 }
 
+ul.mainnav > li {
+    border: 2px solid #334259; 
+    background-color: #DB504A;
+}
 
 nav.mainbar {
     background-color: #EDDDD0;
